@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.hrlloworld"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.hrlloworld"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.hrlloworld"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.hrlloworld"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.helloworld"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.hrlloworld"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "uk.nhs.lancsteachinghospitals.hrlloworld"
+        }
+    }
+}
